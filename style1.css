@@ -68,6 +68,7 @@ body {
   .table {
     font-family:GangwonEduPowerExtraBoldA;
     line-height: 1.53;
+    font-size: 1rem;
     text-align: center;
     vertical-align: middle;
     color: #35465d;
