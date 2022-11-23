@@ -81,3 +81,19 @@ body {
     color: #35465d;
   } 
   
+.weather{
+  color: #35465d;
+}
+
+.CurrIcon, .CurrTemp{
+  display: inline-block;
+  font-size: 1.5rem;
+  text-align: center;
+}
+.CurrIcon{
+  margin-right: 2px;
+}
+.City{
+  font-size: 1.2rem;
+  text-align: center;
+}
